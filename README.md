@@ -1,14 +1,5 @@
 [![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
 
-## Screenshots
-![alt text](https://i.ibb.co/wRcfLwP/Screenshot-2022-09-20-025641.png)
-![alt text](https://i.ibb.co/4PMD5W2/Screenshot-2022-09-20-181139.png)
-![alt text](https://i.ibb.co/nMXtv1C/Screenshot-2022-09-20-181209.png)
-![alt text](https://i.ibb.co/Wy2MfDW/ChatApp.png)
-![alt text](https://i.ibb.co/6HSF4ZQ/Screenshot-2022-09-20-022354.png)
-![alt text](https://i.ibb.co/25g8FL4/Screenshot-2022-09-20-181353.png)
-![alt text](https://i.ibb.co/gvLpfd0/Screenshot-2022-09-20-022420.png)
-
 ## About Laravel
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
