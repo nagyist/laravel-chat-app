@@ -5,7 +5,7 @@
                 <img :src="'storage/profile_images/' + contact.profile_image" :alt="contact.name"
                      class="rounded-circle contact-image" v-if="contact">
                 <div class="contact-details d-flex flex-column">
-                    <span class="contact-name">{{ contact ? contact.name : "Abdel ChatX" }}</span>
+                    <span class="contact-name">{{ contact ? contact.name : "Lara Chat" }}</span>
                     <span class="contact-phone">{{ contact ? contact.phone : '' }}</span>
                 </div>
             </div>
