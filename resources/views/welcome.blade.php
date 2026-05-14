@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Abdel ChatX</title>
+    <title>Lara Chat</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://fonts.bunny.net/css2?family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
     <style>
@@ -29,10 +29,10 @@
             </div>
             <div class="col-lg-6">
                 <h1 class="display-5 fw-bold lh-1 mb-3">
-                    Abdel <span class="text-primary">ChatX</span>
+                    Lara <span class="text-primary">Chat</span>
                 </h1>
                 <p class="lead">
-                    Abdel ChatX is a simple chat application that allows you to chat with your friends and family in
+                    Lara Chat is a simple chat application that allows you to chat with your friends and family in
                     real time.
                 </p>
                 <div class="d-grid gap-2 d-md-flex justify-content-md-start">
